@@ -11,11 +11,11 @@
 - 500: The error occurred from the server side
 
 # Methods in API
-GET:  get data from a server
-POST: send data to a server
-PUT: full update data to a server
-PATCH: paritial update data to a server
-DELETE: delete data to a server
+- **GET**:  get data from a server
+- **POST**: send data to a server
+- **PUT**: full update data to a server
+- **PATCH**: paritial update data to a server
+- **DELETE**: delete data to a server
 
 
 
